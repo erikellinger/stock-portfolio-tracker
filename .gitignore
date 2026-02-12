@@ -133,3 +133,6 @@ dmypy.json
 data/*.csv
 data/*.db
 logs/*.log
+
+# Claude Code
+.claude/
